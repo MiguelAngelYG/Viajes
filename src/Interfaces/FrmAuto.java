@@ -29,7 +29,7 @@ public class FrmAuto extends javax.swing.JFrame {
      */
     DefaultTableModel modelo;
     public FrmAuto() {
-        //Constructor
+        //Constructor de autos
         initComponents();
         botonlimpio();
         bloquear();
