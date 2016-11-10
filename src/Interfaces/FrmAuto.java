@@ -26,6 +26,7 @@ public class FrmAuto extends javax.swing.JFrame {
 
     /**
      * Creates new form FrmAuto
+     *  INTERFAZ AUTOS ......>>>
      */
     DefaultTableModel modelo;
     public FrmAuto() {
